@@ -1,0 +1,216 @@
+@charset "UTF-8"; /****************************** FONT ******************************/
+@font-face {
+    font-family: Pretendard;
+    font-weight: 400;
+    font-style: normal;
+    src: url('./font/Pretendard-Regular.woff2');
+}
+
+@font-face {
+    font-family: Pretendard;
+    font-weight: 700;
+    font-style: normal;
+    src: url('./font/Pretendard-Bold.woff2');
+}
+
+/* 사용 */
+@font-face {
+    font-family: wotfard;
+    font-weight: 400;
+    font-style: normal;
+    src: url('./font/wotfard-regular.woff2');
+}
+
+@font-face {
+    font-family: wotfard;
+    font-weight: 700;
+    font-style: normal;
+    src: url('./font/wotfard-bold.woff2');
+}
+
+@font-face {
+    font-family: suit;
+    font-weight: 700;
+    font-style: normal;
+    src: url('./font/suit-bold.woff2');
+}
+
+/* 사용 */
+/****************************** RESET ******************************/
+html {
+    -webkit-text-size-adjust: none;
+}
+
+html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, textarea, p, blockquote, th, td, input, select, textarea, button, a, span, main, figcaption, figure, label, footer, header {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-text-size-adjust: none;
+}
+
+body, input, select, textarea, button, table {
+    font-family: 'Pretendard','Apple SD Gothic Neo','Malgun Gothic','맑은 고딕', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.8;
+    color: #000;
+    word-break: keep-all;
+    word-wrap: break-word;
+    -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
+fieldset {
+    border: 0;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+
+dl, ul, ol, menu, li {
+    list-style: none;
+}
+
+em, address {
+    font-style: normal;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+    text-decoration: none;
+}
+
+input, select, textarea, button {
+    vertical-align: middle;
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
+button {
+    font-size: 100%;
+    font-weight: inherit;
+    cursor: pointer;
+    width: auto;
+    overflow: visible;
+    color: inherit;
+    vertical-align: middle;
+    background: transparent;
+    border: none;
+    box-sizing: border-box;
+}
+
+button:focus:not(:focus-visible), a:focus:not(:focus-visible) {
+    outline: none;
+}
+
+div:focus {
+    outline: none;
+}
+
+sup {
+    line-height: 1;
+    font-size: 0.7em;
+}
+
+table {
+    table-layout: fixed;
+    border-spacing: 0;
+    width: 100%;
+    empty-cells: show;
+}
+
+th, td {
+    text-indent: 0;
+    word-break: keep-all;
+    word-wrap: break-word;
+}
+
+caption, legend {
+    text-indent: -9999px;
+    width: 0;
+    height: 0;
+    font-size: 1px;
+    line-height: 0;
+    border: 0;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+input[type='text'], input[type='password'] {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    appearance: none;
+    resize: none;
+    box-shadow: none !important;
+    outline: none;
+}
+
+input:checked[type='checkbox'] {
+    -webkit-appearance: checkbox;
+}
+
+input[type='text']::-ms-clear, input[type='tel']::-ms-clear {
+    display: none;
+}
+
+input[disabled], select[disabled], input[readonly], textarea[disabled], button[disabled] {
+    cursor: default;
+}
+
+input, textarea {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+}
+
+select {
+    vertical-align: middle;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0;
+    outline: none;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+::-webkit-input-placeholder {
+    color: #707070 !important;
+    font-weight: 300 !important;
+}
+
+::-moz-placeholder {
+    color: #707070 !important;
+    font-weight: 300 !important;
+}
+
+:-ms-input-placeholder {
+    color: #707070 !important;
+    font-weight: 300 !important;
+}
+
+select.placeholder {
+    color: #707070 !important;
+    font-weight: 300 !important;
+}
+
+textarea:focus, select:focus, button:focus, input[type='text']:focus, input[type='password']:focus, a:focus, span[contenteditable='true']:focus {
+    outline: dotted 1px #aaa;
+}
+img {
+    max-width: 100%;
+}

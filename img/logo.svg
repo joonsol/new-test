@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="36" viewBox="0 0 112 36">
+    <defs>
+        <clipPath id="3vfjz9ub2a">
+            <path transform="translate(313 69)" style="fill:#fff" d="M0 0h112v36H0z"/>
+        </clipPath>
+        <clipPath id="7ytwp6e9ld">
+            <path data-name="합치기 38" d="M12.97 28.99H9.025c.351-.308 2.735-4.119 2.982-6.609-2.558 1.761-8.4 2.209-10.889-1.724s-.7-7.723 4.153-11.228C12.964 3.423 12.965 0 12.965 0l.005.293.005-.293s.212 3.609 7.694 9.426c4.854 3.506 6.641 7.3 4.153 11.228s-8.33 3.485-10.888 1.724c.247 2.49 2.629 6.3 2.983 6.609h-3z" transform="translate(891.82 483.754)" style="fill:#582a98"/>
+        </clipPath>
+        <filter id="u35mdohxeb" x="-6" y="-8.495" width="49.94" height="52.991" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur stdDeviation="4" result="blur"/>
+            <feFlood flood-color="#80d8ff" flood-opacity=".6"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="sf99xey5sc" x="3" y=".505" width="31.94" height="34.991" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur stdDeviation="1" result="blur-2"/>
+            <feFlood flood-color="#80d8ff" flood-opacity=".702"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g data-name="앨리스 로고">
+        <g data-name="마스크 그룹 112" style="clip-path:url(#3vfjz9ub2a)" transform="translate(-313 -69)">
+            <path d="m8.02-137.9-6.247 19.55h4.9l1.127-3.826h4.9l1.126 3.826h4.9l-6.259-19.55zm.7 11.73 1.463-5.669h.117l1.463 5.669z" transform="translate(350.227 215.125)" style="fill:#fff"/>
+            <path d="M17.279-137.9h-4.671v19.55h12.044v-4.25h-7.373z" transform="translate(358.259 215.125)" style="fill:#fff"/>
+            <path d="M12.608-118.35h4.671v-19.55h-4.671z" transform="translate(373.052 215.125)" style="fill:#fff"/>
+            <path d="M8.077-126.655c0 4.3 2.5 7.179 7.542 7.179 4.109 0 5.853-1.844 6.923-4.3l-3.686-1.872a3.077 3.077 0 0 1-3.067 2.039c-2.139 0-2.983-1.48-2.983-3.3v-5.14c0-1.816.816-3.3 2.955-3.3a3 3 0 0 1 2.983 2.011l3.715-1.816a6.923 6.923 0 0 0-6.895-4.33c-5.037 0-7.485 2.877-7.485 7.179z" transform="translate(385.146 216.476)" style="fill:#fff"/>
+            <path d="M24.68-118.35v-3.966h-7.4v-4.022h6.754v-3.962h-6.755v-3.631h7.4v-3.969H12.608v19.55z" transform="translate(397.319 215.125)" style="fill:#fff"/>
+            <g transform="translate(313 69)" style="filter:url(#u35mdohxeb)">
+                <path data-name="NEON 02" d="M12.97 28.99H9.025c.351-.308 2.735-4.119 2.982-6.609-2.558 1.761-8.4 2.209-10.889-1.724s-.7-7.723 4.153-11.228C12.964 3.423 12.965 0 12.965 0l.005.293.005-.293s.212 3.609 7.694 9.426c4.854 3.506 6.641 7.3 4.153 11.228s-8.33 3.485-10.888 1.724c.247 2.49 2.629 6.3 2.983 6.609h-3z" transform="translate(6 3.5)" style="fill:#582a98"/>
+            </g>
+            <g transform="translate(313 69)" style="filter:url(#sf99xey5sc)">
+                <path data-name="NEON 01" d="M12.97 28.99H9.025c.351-.308 2.735-4.119 2.982-6.609-2.558 1.761-8.4 2.209-10.889-1.724s-.7-7.723 4.153-11.228C12.964 3.423 12.965 0 12.965 0l.005.293.005-.293s.212 3.609 7.694 9.426c4.854 3.506 6.641 7.3 4.153 11.228s-8.33 3.485-10.888 1.724c.247 2.49 2.629 6.3 2.983 6.609h-3z" transform="translate(6 3.5)" style="fill:#582a98"/>
+            </g>
+            <g transform="translate(-572.82 -411.249)" style="clip-path:url(#7ytwp6e9ld)">
+                <path data-name="합치기 39" d="M12.97 28.99H9.025c.351-.308 2.735-4.119 2.982-6.609-2.558 1.761-8.4 2.209-10.889-1.724s-.7-7.723 4.153-11.228C12.964 3.423 12.965 0 12.965 0l.005.293.005-.293s.212 3.609 7.694 9.426c4.854 3.506 6.641 7.3 4.153 11.228s-8.33 3.485-10.888 1.724c.247 2.49 2.629 6.3 2.983 6.609h-3z" transform="translate(891.82 483.754)" style="fill:#582a98"/>
+                <g data-name="Group Move">
+                    <path data-name="5" d="M9.47.024c3.948 0 10.891-1.033 12.769 10.459S16.754 27.7 12.805 27.7 2.452 25.328.369 16.841 5.522.024 9.47.024z" transform="rotate(39 -228.736 1523.8)" style="mix-blend-mode:hard-light;isolation:isolate;fill:#ff9760"/>
+                    <path data-name="6" d="M8.874-8.841c8.454-.6 11.5 6.987 11.5 11.888S21 23.71 10.682 23.4 0 11.463 0 6.562.42-8.244 8.874-8.841z" transform="translate(894.077 491.437)" style="fill:#394def;mix-blend-mode:hard-light;isolation:isolate"/>
+                    <path data-name="4" d="M1.3 0c3.011 0 5.68.878 7.245 4.113s-1.2 10.16-4.2 10.16S-7.576 9.637-7.576 6.631-1.7 0 1.3 0z" transform="translate(908.382 498.922)" style="fill:#e129a3;mix-blend-mode:hard-light;isolation:isolate"/>
+                    <path data-name="3" d="M8.923 0c4.928 0 8.292 2.96 10.851 9.157S13.85 21.924 8.923 21.924 0 17.016 0 10.962 3.995 0 8.923 0z" transform="translate(890.338 480.861)" style="fill:#7ce495;mix-blend-mode:hard-light;isolation:isolate"/>
+                    <path data-name="2" d="M11.846 0c3.007 0 6.9 1.639 6.874 6.786S10.734 12.23 7.727 12.23-.111 10.9 0 6.786 8.839 0 11.846 0z" transform="rotate(-8 3932.943 -6195.054)" style="fill:#7d4fcf;mix-blend-mode:hard-light;isolation:isolate"/>
+                    <path data-name="1" d="M4.766 0a6.459 6.459 0 0 1 6.459 6.459c0 3.567-2.892 10.562-6.459 10.562s-8.432-5.568-8.432-9.135S1.2 0 4.766 0z" transform="translate(892.384 494.495)" style="fill:#fee90f;mix-blend-mode:hard-light;isolation:isolate"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
